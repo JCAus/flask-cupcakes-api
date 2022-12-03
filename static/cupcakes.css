@@ -1,0 +1,29 @@
+.cupcake-image{
+    width: 200px;
+    height: 200px;
+}
+
+.flavor{
+    text-decoration: none;
+}
+
+.add-cupcake-btn{
+    text-decoration: none;
+    border: 3px solid green;
+    color: white;
+    background-color: green;
+    border-radius: 3px;
+}
+
+.delete-cupcake-btn{
+    color:white;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 2px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+}
